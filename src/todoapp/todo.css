@@ -1,0 +1,40 @@
+header{
+    background-image: url("../../public/banner.jpg");
+}
+/* todo.css */
+.priority-dot {
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  
+  .priority-low {
+    background-color: green;
+  }
+  
+  .priority-medium {
+    background-color: yellow;
+  }
+  
+  .priority-high {
+    background-color: red;
+  }
+  
+  .todo-app-container {
+    background-color: #f8f8f8;
+  }
+  
+  .task-list {
+    margin-top: 20px;
+  }
+  
+  .tab-selector button {
+    border-radius: 5px;
+  }
+  
+  .btn-success {
+    background-color: #007b33; /* Darker green */
+    border-color: #007b33;
+  }
+  
